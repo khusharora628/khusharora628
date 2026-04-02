@@ -2,6 +2,6 @@
 - 👀 I’m interested in Full Stack Development, AI/ML, and building real-world projects that solve problems
 - 🌱 I’m currently learning Data Structures & Algorithms, Backend Development, and exploring AI tools
 - 💞️ I’m looking to collaborate on innovative web apps, AI-based projects, and startup ideas
-- 📫 How to reach me: khusharora628@gmail.com (update this if needed)
+- 📫 How to reach me: khusharora628@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love turning ideas into real projects and I never stop until it works 🚀
